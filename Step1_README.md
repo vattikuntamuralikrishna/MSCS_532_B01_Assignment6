@@ -6,7 +6,7 @@ This repository contains implementations, performance analyses, and an empirical
 Both implementations utilize **3-Way Dutch National Flag Partitioning** (`< pivot`, `== pivot`, `> pivot`) to handle duplicate elements efficiently and prevent infinite recursion or performance degradation.
 
 ## Project Structure
-•	MSCS-532_Project_Phase3_Step1.py  # Source code for algorithms, benchmarks, and plot generation
+•	MSCS-532_Project_Phase3_Step1.ipynb  # Source code for algorithms, benchmarks, and plot generation
 •	Step1_Documentation # Project documentation 
 •	Step1_README.md                # Summary of findings
 Environment Requirements
